@@ -1,5 +1,6 @@
-# FnnctionalProgramm
-Pratice for functionnal programming
+# FunctionalProgram
+Practice for functional programming
+
 
 
 
