@@ -13,4 +13,10 @@ object Main {
     else p(number1)+
       sumMethod(p)(f)(number1+2,number2)
   def sumProduct(int: Int):Long= sumMethod(int=>int*int)(f=>f)(3,5)
+  //TODO implement sqrt method
+//  def sqrt(y:Double)=
+
+  def square(x:Long)=x*x
+
+
 }
